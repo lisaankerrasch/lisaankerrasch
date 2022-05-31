@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **lisaankerrasch/lisaankerrasch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ :pencil2: I am a front-end developer, recently graduated from Noroff  
+ 
+ :computer: I will start the back-end education this fall   
+ 
+ :ribbon: I am also a fashion designer and pattern maker graduated from Esmod, Oslo  
+ 
+ :wine_glass: I completed WSET Level 3 award in wines this spring  
