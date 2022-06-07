@@ -1,7 +1,7 @@
 ### Hello 👋
 
 
- :pencil2: I am a front-end developer, recently graduated from Noroff  
+ :pencil2: I am a front-end developer, soon to graduate from Noroff  
  
  :computer: I will start back-end education on Noroff this fall   
  
